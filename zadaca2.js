@@ -20,3 +20,22 @@ Real : 1, 4, 1, 5, 0
 test podaci B : 
 Barca : 1, 2, 1, 1, 3
 Real : 1, 1, 3, 0, 2 */
+
+/* 
+
+Zadatak 2.
+Joža želi izraditi jednostavan kalkulator za napojnice. U njegovoj zemlji uobičajeno je
+dati 15% za napojnicu ako je račun između 50 i 300. Ako je vrijednost drugačija onda je
+napojnica 20%..
+
+Vaš zadatak je izračunati napojnicu ovisno o veličini računa. Napravi varijablu racun za
+tu potrebu. Nije dozvoljeno koristiti if else, nego kondicionalni operator.
+
+ispiši string u konzolu sa iznosom računa, i finalnim izračunom (račun + napojnica)
+
+test data:
+
+račun 275
+račun 40
+račun 430
+*/
