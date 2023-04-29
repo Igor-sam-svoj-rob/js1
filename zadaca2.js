@@ -29,7 +29,7 @@ dati 15% za napojnicu ako je račun između 50 i 300. Ako je vrijednost drugači
 napojnica 20%..
 
 Vaš zadatak je izračunati napojnicu ovisno o veličini računa. Napravi varijablu racun za
-tu potrebu. Nije dozvoljeno koristiti if else, nego kondicionalni operator.
+tu potrebu. Nije dozvoljeno koristiti if else, nego ternary operator.
 
 ispiši string u konzolu sa iznosom računa, i finalnim izračunom (račun + napojnica)
 
