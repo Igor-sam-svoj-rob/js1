@@ -18,8 +18,8 @@ Marko : 78 kg i 1.69 cm
 Josip : 92 kg i 1.95 cm
 */
 
-/* Izazov 2: Imamo objekt myMusic. Napravi novi objekt i dodaj ga na u prvi objekt kao drugog
-člana liste (ali isto kao objekt) */
+/* Izazov 2: Imamo listu u kojoj je objekt album. Napravi novi objekt i 
+dodaj ga na u u listu album kao drugog člana liste (ali isto kao objekt) */
 
 const album = [
   {
