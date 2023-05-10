@@ -18,7 +18,7 @@ Marko : 78 kg i 1.69 cm
 Josip : 92 kg i 1.95 cm
 */
 
-/* Izazov 2: Imamo listu u kojoj je objekt album. Napravi novi objekt i 
+/* Zadatak 2: Imamo listu u kojoj je objekt album. Napravi novi objekt i 
 dodaj ga na u u listu album kao drugog člana liste (ali isto kao objekt) */
 
 const album = [
@@ -36,3 +36,19 @@ const noviAlbum = {
   godina: 1975,
   format: ["8T", "LP"],
 };
+
+/*Zadatak 3 : 
+Imamo 2 liste, listu računa i listu napojnica. 
+Trebamo koristeći funkciju i for petlju napraviti izračun sume članova obje liste 
+(prvi član prve liste sa prvim članom druge liste, i tako član po član).
+
+Rezultat trebamo zapisati u novu listu koju možemo nazvati total.
+
+hint 1 : članove obje liste u funkciju ubacite putem pripadajućih parametara.
+hint 2 : Postavite početno stanje izračuna koje će ići u returnu na 0.
+hint 3 : Prođite for petljom članove obje liste i zbrojite ih, te koristeći push metodu ubacite
+u novu listu.
+ */
+
+const listaRacuna = [125, 555, 44];
+const listaNapojnica = [44, 105, 14];	
